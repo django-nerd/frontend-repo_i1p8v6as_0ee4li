@@ -24,7 +24,7 @@ export default function Navbar() {
             </div>
             <div className="leading-tight">
               <p className="font-bold text-gray-900">HVAC Template</p>
-              <p className="text-xs text-gray-500 uppercase tracking-widest">GTA</p>
+              <p className="text-xs text-gray-500 uppercase tracking-widest">Utah</p>
             </div>
           </a>
 

@@ -2,7 +2,7 @@ export default function FAQ() {
   const faqs = [
     {
       q: "Do you offer emergency service?",
-      a: "Yes, we provide 24/7 emergency heating and cooling service across the GTA.",
+      a: "Yes, we provide 24/7 emergency heating and cooling service across Utah.",
     },
     {
       q: "Which brands do you install?",

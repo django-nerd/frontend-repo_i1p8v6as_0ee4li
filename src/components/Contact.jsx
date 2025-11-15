@@ -41,7 +41,7 @@ export default function Contact() {
           {status === "error" && <p className="text-sm text-red-600">Something went wrong. Please call us.</p>}
         </form>
 
-        <p className="mt-6 text-center text-sm text-gray-500">Prefer to talk? Call 416‑123‑4567</p>
+        <p className="mt-6 text-center text-sm text-gray-500">Prefer to talk? Call 801‑123‑4567</p>
       </div>
     </section>
   );

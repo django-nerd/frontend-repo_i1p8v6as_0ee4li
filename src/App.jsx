@@ -13,7 +13,7 @@ function Footer() {
         <div className="grid md:grid-cols-3 gap-6 text-sm">
           <div>
             <p className="font-semibold text-gray-900">HVAC Template</p>
-            <p className="text-gray-600 mt-2">A clean, modern template for HVAC companies serving the GTA.</p>
+            <p className="text-gray-600 mt-2">A clean, modern template for HVAC companies serving Utah.</p>
           </div>
           <div>
             <p className="font-semibold text-gray-900">Hours</p>
@@ -26,9 +26,9 @@ function Footer() {
           <div>
             <p className="font-semibold text-gray-900">Contact</p>
             <ul className="mt-2 text-gray-600 space-y-1">
-              <li>Toronto, ON</li>
-              <li>416‑123‑4567</li>
-              <li>info@yourhvac.ca</li>
+              <li>Salt Lake City, UT</li>
+              <li>801‑123‑4567</li>
+              <li>info@yourhvac.com</li>
             </ul>
           </div>
         </div>

@@ -7,12 +7,12 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-10 items-center">
           <div>
-            <span className="inline-flex items-center text-xs font-semibold uppercase tracking-wider text-blue-700 bg-blue-50 rounded-full px-3 py-1 ring-1 ring-blue-100">Trusted HVAC services across the GTA</span>
+            <span className="inline-flex items-center text-xs font-semibold uppercase tracking-wider text-blue-700 bg-blue-50 rounded-full px-3 py-1 ring-1 ring-blue-100">Trusted HVAC services across Utah</span>
             <h1 className="mt-6 text-4xl sm:text-5xl font-extrabold tracking-tight text-gray-900">
               Keep your home comfortable year‑round
             </h1>
             <p className="mt-4 text-lg text-gray-600">
-              Fast, reliable heating and cooling installations, repairs, and maintenance for homes and businesses in the Greater Toronto Area.
+              Fast, reliable heating and cooling installations, repairs, and maintenance for homes and businesses throughout Utah.
             </p>
 
             <div className="mt-6 flex flex-col sm:flex-row gap-3">

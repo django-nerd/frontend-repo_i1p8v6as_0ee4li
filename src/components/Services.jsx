@@ -34,7 +34,7 @@ export default function Services() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-2xl mx-auto">
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900">Services</h2>
-          <p className="mt-3 text-gray-600">Everything you need to stay comfortable in the GTA — installations, repairs, and maintenance done right.</p>
+          <p className="mt-3 text-gray-600">Everything you need to stay comfortable in Utah — installations, repairs, and maintenance done right.</p>
         </div>
 
         <div className="mt-10 grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
